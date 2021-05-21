@@ -1,0 +1,4 @@
+﻿  拷贝二叉树.c
+C:\Users\皮皮飞\Desktop\TwoUp\DataStructure\拷贝二叉树\拷贝二叉树.c(30,3): warning C4033: “CopyBinaryTree”必须返回值
+C:\Users\皮皮飞\Desktop\TwoUp\DataStructure\拷贝二叉树\拷贝二叉树.c(39): warning C4715: “CopyBinaryTree”: 不是所有的控件路径都返回值
+  拷贝二叉树.vcxproj -> C:\Users\皮皮飞\Desktop\TwoUp\DataStructure\栈的应用_中缀表达式转后缀表达式\Debug\拷贝二叉树.exe
